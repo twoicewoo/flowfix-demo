@@ -1,0 +1,35 @@
+{
+  "business": "FlowFix",
+  "status": "RESEARCH / NO_REVENUE",
+  "currency": "CNY",
+  "customer": "每周重复处理表格、文件或网页数据的中小微企业团队",
+  "promise": "把一个边界明确的重复办公流程改造成可复核、保留人工确认点的本地自动化工具",
+  "packages": [
+    {
+      "code": "diagnosis",
+      "price": 299,
+      "deliveryDays": 1,
+      "scope": "流程拆解、脱敏样表审计、风险点、固定范围报价；7日内实施可抵扣"
+    },
+    {
+      "code": "single_workflow",
+      "price": 999,
+      "deliveryDays": 3,
+      "scope": "一个本地流程、最多3条核心规则、异常清单、汇总结果、使用说明、7日缺陷修复"
+    },
+    {
+      "code": "two_tool_workflow",
+      "price": 2499,
+      "deliveryDays": 5,
+      "scope": "最多连接2类已授权工具或数据源、提醒、人工确认点、操作说明、14日缺陷修复"
+    }
+  ],
+  "boundaries": [
+    "不绕过验证码、登录保护或平台规则",
+    "不处理未经授权取得的数据",
+    "不把客户密码写入代码或交付包",
+    "涉及付款、发布、删除或最终提交时保留人工确认",
+    "新增第三方付费接口、复杂网页适配或现场部署另行评估"
+  ]
+}
+

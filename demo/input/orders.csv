@@ -1,0 +1,10 @@
+order_id,customer,amount_cny,paid_at,status,invoice_required
+SO-1001,云帆商贸,1280.00,2026-09-01,paid,yes
+SO-1002,松石工作室,680,2026-09-01,paid,no
+SO-1003,禾木零售,299.00,2026-09-02,refunded,yes
+SO-1004,星港设计,500.00,2026-09-02,pending,no
+SO-1005,青禾运营,999.00,2026-09-03,paid,yes
+SO-1002,重复订单,680.00,2026-09-03,paid,no
+SO-1007,错误金额,-20.00,2026-09-03,paid,no
+SO-1008,错误日期,300.00,2026-13-40,paid,maybe
+
