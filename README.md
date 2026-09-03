@@ -5,6 +5,7 @@ FlowFix 把“反复复制粘贴、核对表格、整理异常、生成日报”
 - 公开演示页：https://twoicewoo.github.io/flowfix-demo/
 - 可复核运行仓库：https://github.com/twoicewoo/flowfix-demo
 - 月度商品对比与销售汇总模板：https://github.com/twoicewoo/flowfix-demo/raw/main/downloads/FlowFix-monthly-product-summary-demo.xlsx
+- 免费范围确认：https://github.com/twoicewoo/flowfix-demo/issues/new?template=flowfix-intake.yml（公开 Issue，仅提交脱敏字段和流程说明）
 
 ## 当前经营选择
 
