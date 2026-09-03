@@ -2,6 +2,9 @@
 
 FlowFix 把“反复复制粘贴、核对表格、整理异常、生成日报”的人工流程，改造成可在客户电脑运行、保留人工确认点、结果可复核的轻量工具。
 
+- 公开演示页：https://twoicewoo.github.io/flowfix-demo/
+- 可复核运行仓库：https://github.com/twoicewoo/flowfix-demo
+
 ## 当前经营选择
 
 - **客户**：每周重复处理 Excel/CSV/PDF/网页数据的电商运营、行政、财务和小团队负责人。
