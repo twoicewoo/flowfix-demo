@@ -4,6 +4,7 @@ FlowFix 把“反复复制粘贴、核对表格、整理异常、生成日报”
 
 - 公开演示页：https://twoicewoo.github.io/flowfix-demo/
 - 可复核运行仓库：https://github.com/twoicewoo/flowfix-demo
+- 月度商品对比与销售汇总模板：https://github.com/twoicewoo/flowfix-demo/raw/main/downloads/FlowFix-monthly-product-summary-demo.xlsx
 
 ## 当前经营选择
 
@@ -33,5 +34,4 @@ FLOWFIX_DEMO_OK input_rows=8 valid_rows=5 review_rows=3 gross_cny=2959.00 refund
 
 ## 商业状态
 
-截至 2026-09-04：产品样例已可运行；真实客户、付款、交付、收入和利润仍为 0，状态为 `RESEARCH / NO_REVENUE`。
-
+截至 2026-09-04：产品样例已可运行；已发现 1 条近期、明确表示可付费且与样例匹配的潜在线索，私信草稿已就绪但尚未发送；真实付款、交付、收入和利润仍为 0，状态为 `RESEARCH / NO_REVENUE`。
